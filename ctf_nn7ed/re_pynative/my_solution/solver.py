@@ -1,7 +1,4 @@
 #!/usr/bin/env python2
-#
-# Fairlight - Rev (250)
-#
 
 import angr
 import claripy
